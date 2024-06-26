@@ -1,0 +1,2 @@
+java -cp /ldfssz1/ST_HEALTH/P20H10200N0068/lizhiming/software/CRT1.2-CLI.jar crt  $1 $2_CRT
+pilercr -in $1 -out $2_pilercr
