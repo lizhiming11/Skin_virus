@@ -6,7 +6,7 @@ Skin virome database:
 | Description | Link |Extraction code (提取码)|
 | -------- | -------- |-------- |
 | Nonredundant viral genomes | [High-medium.fasta.gz](http://manpages.ubuntu.com/manpages/cosmic/man1/soap.1.html) |1234|
-| Annotations (Taxonomy/Quality/Host) | [Annotations.xlsx]([http://manpages.ubuntu.com/manpages/cosmic/man1/soap.1.html](https://pan.baidu.com/s/1oCAn-SmaBP5kMSHWjlwdWg)) |1234|
+| Annotations (Taxonomy/Quality/Host) | [Annotations.xlsx](https://pan.baidu.com/s/1oCAn-SmaBP5kMSHWjlwdWg |1234|
 | gene sequences | [High-medium.ffn.gz](http://manpages.ubuntu.com/manpages/cosmic/man1/soap.1.html) |1234|
 | protein sequences | [High-medium.faa.gz](http://manpages.ubuntu.com/manpages/cosmic/man1/soap.1.html) |1234|
 | Full viral genomes | [tot.fasta.gz](http://manpages.ubuntu.com/manpages/cosmic/man1/soap.1.html) |1234|
